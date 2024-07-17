@@ -1,0 +1,33 @@
+project 3
+
+App_description
+-
+App_id INT PK
+Name VARCHAR(255)
+About_the_game VARCHAR(255)
+
+Contact
+-
+App_id INT PK
+Support_url VARCHAR(255)
+Website VARCHAR(255)
+Support_email VARCHAR(255)
+
+App_review
+-
+App_id INT PK
+Recommendations VARCHAR(255)
+Notes VARCHAR(255)
+Positive INT
+Negative INT
+
+App_detail
+-
+App_id INT PK
+Release_date Date
+Price FLOAT
+Required_Age
+Windows VARCHAR(255)
+Mac VARCHAR(255)
+Lynux VARCHAR(255)
+
