@@ -5,3 +5,7 @@ RawData/games.csv
 RawData/games.json
 RawData/steam-games-dataset.zip
 API/PostgreSQL.py
+API/.ipynb_checkpoints/PostgreSQL-checkpoint.py
+API/__pycache__/PostgreSQL.cpython-312.pyc
+JupyterNotebooks/__pycache__/PostgreSQL.cpython-312.pyc
+JupyterNotebooks/.ipynb_checkpoints/ETL - Nolan-checkpoint.ipynb
